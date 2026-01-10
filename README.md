@@ -1,4 +1,4 @@
-☕ Coffee Machine Maker (Python)
+#☕ Coffee Machine Maker (Python)
 
 This project is a simple console-based coffee machine simulator written in Python. It lets a user order coffee, insert coins, checks ingredient availability, and prepares the drink with sound effects.
 
